@@ -2,7 +2,7 @@ package package2;
 
 import org.testng.annotations.Test;
 
-public class OrgTest2 {
+public class OrgTest1 {
 	
 	@Test(groups = "smokeTest")
 	public void createOrgTest() {
